@@ -21,5 +21,7 @@ Write to your [House Representative here](http://www.house.gov/representatives/f
 
 [Also check this out](https://democracy.io/#!/), which was made by the EFF and is a low transaction cost tool for writing all your reps in one fell swoop. And just a reminder that the FCC's vote on 18th is to begin the process of rolling back Net Neutrality so there will be a 3 month comment period and the final vote will likely be around the 18th of August.
 
+Reddit user TuckerMcG [explained some of the failsafes that could prevent the FCC from getting rid of NN, evn with Ajit Pai going rogue](https://www.reddit.com/r/politics/comments/6x0bdy/comment/dmcoqey?st=J71P3TJL&sh=b0f005e9). Your Congressmen and women are just as important in this fight, since the regulations get deferred to them.
+
 
 If you would like to contribute to the text in this bot's posts, [please edit this file](https://github.com/tylerbrockett/NetNeutralityBot-Reddit/blob/master/src/resources/message.txt) on github.
